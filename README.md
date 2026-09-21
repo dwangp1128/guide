@@ -6,9 +6,8 @@
 3. [https://drive.google.com/file/d/10BeIPdE5Yw_lJPHMLd00l6UR8Ujn3Hpf/view]
 
 # sdk_db
-4. [https://drive.google.com/file/d/1sVXReG8a8t0FUtSXhKS-jBISfWSJCdjt/view?usp=sharing]
-5. [https://drive.google.com/file/d/1yjNjkes7WTLHzp51A9IPuj8UXFz7WQry/view?usp=sharing]
-6. [https://drive.google.com/file/d/1n_3y46CVKwxXtFwWXFEwsfqbKUNnmsw8/view?usp=sharing]
+4. [https://ollama.com/download/OllamaSetup.exe]
+
    
 # blender-py   
 7. [https://drive.google.com/file/d/1bOU9uKE62iOIEO4wS_XQgjRbQeYPB2r-/view?usp=drive_link]
