@@ -1,16 +1,45 @@
 # guide link
 
+# unity_6000 supports
+
+1. [https://download.unity3d.com/download_unity/907bc2d768b5/TargetSupportInstaller/UnitySetup-Windows-Server-Support-for-Editor-6000.0.71f1.exe?ampDeviceId=8eb09b7b-9798-41c5-aabe-bc214ae2bf78&ampSessionId=1789954098255&ampTimestamp=1790041094114]
+2. [https://download.unity3d.com/download_unity/907bc2d768b5/TargetSupportInstaller/UnitySetup-Windows-IL2CPP-Support-for-Editor-6000.0.71f1.exe?ampDeviceId=8eb09b7b-9798-41c5-aabe-bc214ae2bf78&ampSessionId=1789954098255&ampTimestamp=1790041094114]
+3. [https://download.unity3d.com/download_unity/907bc2d768b5/TargetSupportInstaller/UnitySetup-WebGL-Support-for-Editor-6000.0.71f1.exe?ampDeviceId=8eb09b7b-9798-41c5-aabe-bc214ae2bf78&ampSessionId=1789954098255&ampTimestamp=1790041094114]
+4. [https://download.unity3d.com/download_unity/907bc2d768b5/TargetSupportInstaller/UnitySetup-Universal-Windows-Platform-Support-for-Editor-6000.0.71f1.exe?ampDeviceId=8eb09b7b-9798-41c5-aabe-bc214ae2bf78&ampSessionId=1789954098255&ampTimestamp=1790041094114]
+5. [https://download.unity3d.com/download_unity/907bc2d768b5/TargetSupportInstaller/UnitySetup-Linux-Server-Support-for-Editor-6000.0.71f1.exe?ampDeviceId=8eb09b7b-9798-41c5-aabe-bc214ae2bf78&ampSessionId=1789954098255&ampTimestamp=1790041094114]
+6. [https://download.unity3d.com/download_unity/907bc2d768b5/TargetSupportInstaller/UnitySetup-Linux-Mono-Support-for-Editor-6000.0.71f1.exe?ampDeviceId=8eb09b7b-9798-41c5-aabe-bc214ae2bf78&ampSessionId=1789954098255&ampTimestamp=1790041094114]
+7. [https://download.unity3d.com/download_unity/907bc2d768b5/TargetSupportInstaller/UnitySetup-Linux-IL2CPP-Support-for-Editor-6000.0.71f1.exe?ampDeviceId=8eb09b7b-9798-41c5-aabe-bc214ae2bf78&ampSessionId=1789954098255&ampTimestamp=1790041094114]
+8. [https://download.unity3d.com/download_unity/907bc2d768b5/TargetSupportInstaller/UnitySetup-Android-Support-for-Editor-6000.0.71f1.exe?ampDeviceId=8eb09b7b-9798-41c5-aabe-bc214ae2bf78&ampSessionId=1789954098255&ampTimestamp=1790041094114]
+   
+# git
+1. [https://github.com/git-for-windows/git/releases/download/v2.55.0.windows.5/Git-2.55.0.5-64-bit.exe]
+3. [https://github.com/go-gitea/gitea/releases/download/v1.27.3/gitea-src-1.27.3.tar.gz]
+4. [https://github.com/go-gitea/gitea/releases/download/v1.27.3/gitea-1.27.3-windows-4.0-arm64.exe]
+5. [https://github.com/go-gitea/gitea/releases/download/v1.27.3/gitea-1.27.3-windows-4.0-amd64.exe]
+6. [https://github.com/go-gitea/gitea/releases/download/v1.27.3/gitea-1.27.3-windows-4.0-386.exe]
+7. [https://github.com/go-gitea/gitea/releases/download/v1.27.3/gitea-1.27.3-linux-riscv64]
+8. [https://github.com/go-gitea/gitea/releases/download/v1.27.3/gitea-1.27.3-linux-arm64]
+9. [https://github.com/go-gitea/gitea/releases/download/v1.27.3/gitea-1.27.3-linux-amd64]
+10. [https://github.com/go-gitea/gitea/releases/download/v1.27.3/gitea-1.27.3-gogit-windows-4.0-amd64.exe]
+11. [https://github.com/go-gitea/gitea/releases/download/v1.27.3/gitea-1.27.3-freebsd14-amd64]
+12. [https://github.com/go-gitea/gitea/releases/download/v1.27.3/gitea-1.27.3-freebsd14-amd64.xz]
+
+# ollama
+1. [https://github.com/ollama/ollama/releases/download/v0.34.2/OllamaSetup.exe]
+2. [https://github.com/ollama/ollama/archive/refs/tags/v0.34.2.zip]
+3. [https://github.com/ollama/ollama/releases/download/v0.34.2/ollama-linux-amd64-mlx.tar.zst]
+4. [https://github.com/ollama/ollama/releases/download/v0.34.2/ollama-linux-amd64-rocm.tar.zst]
+5. [https://github.com/ollama/ollama/releases/download/v0.34.2/ollama-linux-amd64.tar.zst]
+7. [https://github.com/ollama/ollama/releases/download/v0.34.2/install.sh]
+8. [https://github.com/ollama/ollama/releases/download/v0.34.2/install.ps1]
+
 # model
-1. [https://drive.google.com/file/d/1N8NbyD1kh1LI6rSTbtG2wVdjQ47oJIAM/view]
-2. [https://drive.google.com/file/d/1puMNcKox4SIMBDaV5KlpMYCjXcD_39-P/view]
-3. [https://drive.google.com/file/d/10BeIPdE5Yw_lJPHMLd00l6UR8Ujn3Hpf/view]
+
 
 # sdk_db
 4. [https://ollama.com/download/OllamaSetup.exe]
-
    
 # blender-py   
-7. [https://drive.google.com/file/d/1bOU9uKE62iOIEO4wS_XQgjRbQeYPB2r-/view?usp=drive_link]
 
 # download guide
   ## 1. mkr qwen25coder
