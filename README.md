@@ -29,3 +29,6 @@
 26. [https://github.com/dwangp1128/vm/releases/download/v1.0.0/centos9_boot.7z.026]
 27. [https://github.com/dwangp1128/vm/releases/download/v1.0.0/centos9_boot.7z.027]
 
+# gradle
+1. [https://drive.google.com/drive/folders/1tJ3C1IhROQTe8WkbUQ7SklSiao3wNZP8?usp=drive_link]
+
