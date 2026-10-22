@@ -1,5 +1,9 @@
 # guide link
 
+# gradle
+1. [https://drive.google.com/drive/folders/1tJ3C1IhROQTe8WkbUQ7SklSiao3wNZP8?usp=drive_link]
+2. [https://github.com/dwangp1128/vm/releases/download/v1.0.0/blastoise_effect.unitypackage]
+
 # vm
 1. [https://github.com/dwangp1128/vm/releases/download/v1.0.0/centos9_boot.7z.001]
 2. [https://github.com/dwangp1128/vm/releases/download/v1.0.0/centos9_boot.7z.002]
@@ -29,6 +33,5 @@
 26. [https://github.com/dwangp1128/vm/releases/download/v1.0.0/centos9_boot.7z.026]
 27. [https://github.com/dwangp1128/vm/releases/download/v1.0.0/centos9_boot.7z.027]
 
-# gradle
-1. [https://drive.google.com/drive/folders/1tJ3C1IhROQTe8WkbUQ7SklSiao3wNZP8?usp=drive_link]
+
 
