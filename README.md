@@ -3,6 +3,7 @@
 # gradle
 1. [https://drive.google.com/drive/folders/1tJ3C1IhROQTe8WkbUQ7SklSiao3wNZP8?usp=drive_link]
 2. [https://github.com/dwangp1128/vm/releases/download/v1.0.0/blastoise_effect.unitypackage]
+3. [https://github.com/dwangp1128/vm/releases/download/v1.0.0/Navicat18_crack.7z]
 
 # vm
 1. [https://github.com/dwangp1128/vm/releases/download/v1.0.0/centos9_boot.7z.001]
